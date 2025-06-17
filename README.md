@@ -2,7 +2,7 @@
 
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel)](https://ai-qr-genrator.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/chaitanya-maddala-236/ADVANCE-QR-GENRATOR)
-[![GPT Engineer](https://img.shields.io/badge/Made%20with-GPT%20Engineer-FF6B35?style=for-the-badge)](https://gptengineer.app)
+
 
 A powerful, modern QR code generator with advanced customization options and AI-powered features. Create stunning, functional QR codes with ease.
 
